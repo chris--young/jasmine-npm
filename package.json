@@ -20,7 +20,7 @@
   "dependencies": {
     "exit": "^0.1.2",
     "glob": "^7.0.6",
-    "jasmine-core": "~2.8.0"
+    "jasmine-core": "git+https://github.com/chris--young/jasmine.git#node-timeouts-built"
   },
   "bin": "./bin/jasmine.js",
   "main": "./lib/jasmine.js",
